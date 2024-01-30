@@ -1,0 +1,33 @@
+.topbar {
+    position: relative;
+    z-index: 0;
+    height: 50px;
+    background-color: #f7f5f4;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    .container{
+        margin: 0.5rem auto;
+        width: calc(100% - 200px);
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        button{
+            background-color: #FF3620;
+            border-radius: 5px;
+            color: #F7F5F4;
+            border: none;
+            height: 34px;
+            padding-left: 2rem;
+            padding-right: 1rem;
+            font-size: 18px;
+        }
+    }
+    img{
+        position: absolute;
+        right: 0;
+        height: 32px;
+        width: 32px;
+        margin-top: 5px;
+    }
+
+}

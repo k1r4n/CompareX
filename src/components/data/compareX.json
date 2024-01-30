@@ -1,0 +1,399 @@
+{
+	"monthly_comparison": {
+		"January": {
+			"CompareAB": [
+				{"value": "Product A offers superior data security compared to Product B.", "fav": "A"},
+				{"value": "Product B's AI analytics outperforms Product A in terms of real-time insights.", "fav": "B"},
+				{"value": "Enterprise users reported higher user satisfaction with Product A over Product B.", "fav": "A"}
+			],
+			"CompareAC": [
+				{"value":"Product A's scalability surpasses that of Product C.", "fav": "A"},
+				{"value":"Product C provides advanced AI integration compared to Product A.", "fav": "C"},
+				{"value":"Enterprise clients reported better cost-effectiveness with Product A over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product D offers better AI-driven automation compared to Product A.","fav": "D"},
+				{"value": "Product A and Product D both excel in data integration capabilities.","fav": "AD"},
+				{"value": "Enterprise users found Product A's user interface more intuitive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's machine learning algorithms are more sophisticated than Product C.","fav": "B"},
+				{"value": "Product C provides better compatibility with existing enterprise systems compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's pricing to be more competitive than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "Product B's real-time collaboration features outshine Product D.", "fav": "B"},
+				{"value": "Product D offers stronger AI-driven predictive analytics compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher overall ROI with Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered customer support capabilities surpass those of Product D.","fav": "C"},
+				{"value": "Product D provides seamless integration with cloud services compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's customization options more suited to their needs than Product D.","fav": "C"}
+			]
+		},
+		"February": {
+			"CompareAB": [
+				{"value": "Product A offers superior data security compared to Product B.", "fav": "A"},
+				{"value": "Product B's AI analytics outperforms Product A in terms of real-time insights.", "fav": "B"},
+				{"value": "Enterprise users reported higher user satisfaction with Product A over Product B.", "fav": "A"}
+			],
+			"CompareAC": [
+				{"value": "Product A's scalability surpasses that of Product C.", "fav": "A"},
+				{"value": "Product C provides advanced AI integration compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients reported better cost-effectiveness with Product A over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product D offers better AI-driven automation compared to Product A.","fav": "D"},
+				{"value": "Product A and Product D both excel in data integration capabilities.","fav": "AD"},
+				{"value": "Enterprise users found Product A's user interface more intuitive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's machine learning algorithms are more sophisticated than Product C.","fav": "B"},
+				{"value": "Product C provides better compatibility with existing enterprise systems compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's pricing to be more competitive than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "Product B's real-time collaboration features outshine Product D.", "fav": "B"},
+				{"value": "Product D offers stronger AI-driven predictive analytics compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher overall ROI with Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered customer support capabilities surpass those of Product D.","fav": "C"},
+				{"value": "Product D provides seamless integration with cloud services compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's customization options more suited to their needs than Product D.","fav": "C"}
+			]
+		},
+		"March": {
+			"CompareAB": [
+				{"value": "In March, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In March, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		},
+		"April": {
+			"CompareAB": [
+				{"value": "In April, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"},
+				{"value": "Product A's scalability surpasses that of Product C.", "fav": "A"},
+				{"value": "Product C provides advanced AI integration compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients reported better cost-effectiveness with Product A over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In April, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		},
+		"May": {
+			"CompareAB": [
+				{"value": "In May, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In May, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		},
+		"June": {
+			"CompareAB": [
+				{"value": "In June, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In June, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		},
+		"July": {
+			"CompareAB": [
+				{"value": "In July, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In July, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		},
+		"August": {
+			"CompareAB": [
+				{"value": "Product A offers superior data security compared to Product B.", "fav": "A"},
+				{"value": "Product B's AI analytics outperforms Product A in terms of real-time insights.", "fav": "B"},
+				{"value": "Enterprise users reported higher user satisfaction with Product A over Product B.", "fav": "A"},
+				{"value": "In August, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In August, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		},
+		"September": {
+			"CompareAB": [
+				{"value": "In September, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In September, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		},
+		"October": {
+			"CompareAB": [
+				{"value": "In October, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In October, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		},
+		"November": {
+			"CompareAB": [
+				{"value": "In November, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In November, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		},
+		"December": {
+			"CompareAB": [
+				{"value": "Product A offers superior data security compared to Product B.", "fav": "A"},
+				{"value": "Product B's AI analytics outperforms Product A in terms of real-time insights.", "fav": "B"},
+				{"value": "Enterprise users reported higher user satisfaction with Product A over Product B.", "fav": "A"},
+				{"value": "In December, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "In December, Product A's advanced data encryption outperforms Product B's security measures.", "fav": "A"},
+				{"value": "Enterprise users reported more seamless integration with existing systems using Product B compared to Product A.", "fav": "B"},
+				{"value": "Product B's AI-driven predictive maintenance offers a competitive advantage over Product A.", "fav": "B"}
+			],
+			"CompareAC": [
+				{"value": "Product A's AI-powered analytics provide deeper insights than those of Product C.", "fav": "A"},
+				{"value": "Product C offers a more user-friendly interface for non-technical users compared to Product A.", "fav": "C"},
+				{"value": "Enterprise clients found Product A's scalability to be a key differentiator over Product C.", "fav": "A"}
+			],
+			"CompareAD": [
+				{"value": "Product A and Product D both excel in data governance and compliance.","fav": "AD"},
+				{"value": "Product D's AI-driven natural language processing capabilities outshine Product A's.","fav": "D"},
+				{"value": "Enterprise users found Product A's support and documentation to be more comprehensive than Product D.","fav": "A"}
+			],
+			"CompareBC": [
+				{"value": "Product B's AI-driven recommendation engine provides personalized insights that surpass Product C.","fav": "B"},
+				{"value": "Product C offers more granular control over data access compared to Product B.","fav": "C"},
+				{"value": "Enterprise clients found Product B's machine learning model training to be more efficient than Product C.", "fav": "B"}
+			],
+			"CompareBD": [
+				{"value": "In December, Product B's real-time collaboration features continue to outperform Product D.", "fav": "B"},
+				{"value": "Product D offers enhanced AI-driven anomaly detection compared to Product B.", "fav": "D"},
+				{"value": "Enterprise users reported higher user adoption rates for Product B over Product D.", "fav": "B"}
+			],
+			"CompareCD": [
+				{"value": "Product C's AI-powered sentiment analysis offers more accurate customer insights than Product D.","fav": "C"},
+				{"value": "Product D provides a more intuitive user interface for configuring AI models compared to Product C.","fav": "D"},
+				{"value": "Enterprise clients found Product C's integration with legacy systems to be more seamless than Product D.","fav": "C"}
+			]
+		}
+	}
+
+}

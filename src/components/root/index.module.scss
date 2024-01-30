@@ -1,0 +1,9 @@
+.root {
+    display: flex;
+    .mainContent {
+        width: calc(100% - 100px);
+        margin-left: 100px;
+        transition: width 1s;
+        transition: margin-left 1s;
+    }
+}

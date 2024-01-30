@@ -1,0 +1,116 @@
+.home{
+    padding-top: 2rem;
+    background-color: #F7F5F4;
+    min-height: calc(100vh - 82px);
+    .container{
+        width: calc(100% - 200px);
+        margin: 0 auto;
+        .title{
+            font-size: 1.5rem;
+            height: 1.6rem;
+        }
+        .dropdownWrap{
+            margin-top: 2rem;
+            height: 2.5rem;
+            select{
+                height: 2rem;
+                padding: 0.25rem 3rem;
+                background-color: #ffffff;
+                border: none;
+                font-size: 1.25rem;
+                border-radius: 10px;
+                margin-right: 2rem;
+            }
+        }
+        .searchBar{
+            height: 2.5rem;
+            margin-top: 2rem;
+            display: flex;
+            .searchIcon{
+                width: 50px;
+                padding-left: 1rem;
+                border-top-left-radius: 10px;
+                border-bottom-left-radius: 10px;
+                background-color: #ffffff;
+                height: 2.5rem;
+                svg{
+                    height: 1.5rem;
+                    padding: 0.5rem;
+                }
+            }
+            input{
+                width: calc(100% - 166px);
+                height: 2.4rem;
+                border: none;
+            }
+            button{
+                width: 100px;
+                height: 2.4rem;
+                border-top-right-radius: 10px;
+                border-bottom-right-radius: 10px;
+                border: none;
+                color: #ffffff;
+                background-color: #FF3620;
+            }
+        }
+        .comparison{
+            border-radius: 10px;
+            background-color: white;
+            margin-top: 2rem;
+            padding-bottom: 4rem;
+            .title{
+                font-size: 2rem;
+                padding-left: 2rem;
+                padding-top: 3rem;
+                padding-bottom: 3rem;
+            }
+            .content{
+                .row{
+                    &:not(:last-child) {
+                        border-bottom: 2px solid #EEECEB;
+                    }
+                    @media screen and (max-width: 1366px) {
+                        &:hover{
+                            :first-child{
+                                padding-top: 0.6rem;
+                            }
+                            :last-child {
+                                overflow: visible;
+                                white-space: wrap;
+                            }
+                        }
+                    }
+                    @media screen and (max-width: 911px) {
+                        &:hover{
+                            :first-child{
+                                padding-top: 0.9rem;
+                            }
+                        }
+                    }
+                    display: flex;
+                    padding-bottom: 1rem;
+                    margin-right: 10rem;
+                    .icon{
+                        height: 2rem;
+                        flex-basis: 200px;
+                        flex-grow: 0;
+                        flex-shrink: 0;
+                        padding-top: 0.6rem;
+                        img{
+                            height: 100%;
+                            display: block;
+                            margin: 0 auto;
+                        }
+                    }
+                    .text{
+                        padding-top: 1rem;
+                        white-space: nowrap;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        
+                    }
+                }
+            }
+        }
+    }
+}

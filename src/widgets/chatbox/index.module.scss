@@ -1,0 +1,85 @@
+.chatbox{
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    background-color: #ffffff;
+    .button{
+        cursor: pointer;
+        position: relative;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        img{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, 70%);
+        }
+    }
+    .content{
+        background-color: #ffffff;
+        height: 450px;
+        width: 400px;
+        top: -510px;
+        left: -360px;
+        position: absolute;
+        border-radius: 10px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        .title{
+            font-size: 1rem;
+            font-weight: 600;
+            border-bottom: 2px solid #D6CECF;
+            padding: 10px;
+            cursor: pointer;
+        }
+        .chats{
+            margin-top: 2rem;
+            .chatLeft{
+                display: flex;
+                margin-top: 1rem;
+                .text{
+                    padding: 1rem;
+                    border-radius: 10px;
+                    background-color: #D3D9E4;
+                    max-width: 270px;
+                }
+            }
+            .chatRight{
+                display: flex;
+                margin-top: 1rem;
+                justify-content: flex-end;
+                img{
+                    margin-top: 10px;
+                }
+                .text{
+                    max-width: 270px;
+                    padding: 1rem;
+                    border-radius: 10px;
+                    background-color: #D3D9E4;
+                }
+            }
+        }
+    }
+    .inputBox{
+        background-color: #ffffff;
+        height: 50px;
+        width: 400px;
+        top: 450px;
+        position: absolute;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        display: flex;
+        padding: 0.5rem;
+        box-sizing: border-box;
+        svg{
+            margin-top: 5px;
+        }
+        input{
+            border: none;
+            border-radius: 10px;
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+            width: 100%;
+            margin-left: 1rem;
+        }
+    }
+}
